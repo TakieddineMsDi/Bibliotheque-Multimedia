@@ -1,0 +1,7 @@
+ConnectionType=Local
+User=ingIM2
+Pass=ing2
+Host=localhost
+Port=1521
+DBName=orcl
+DriverType=thin
